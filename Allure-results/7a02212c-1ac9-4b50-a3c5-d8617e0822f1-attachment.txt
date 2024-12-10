@@ -1,0 +1,6 @@
+launching chrome browser
+row count-->7
+Testcase pass count-->6
+Testcase fail count-->0
+['pass', 'pass', 'pass', 'pass', 'pass', 'pass']
+Browser closed

@@ -1,0 +1,5 @@
+this is my demo file at git global
+thi is my demo edit at local repository
+file name changed at global
+
+last time pushing local file at global 

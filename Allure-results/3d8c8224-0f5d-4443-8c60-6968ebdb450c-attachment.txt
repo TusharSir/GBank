@@ -1,0 +1,3 @@
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:83 Testcase test_Login_003 is started
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:84 Opening browser
+[32mINFO    [0m Test_UserProfile:test_UserProfile.py:86 Click on Login link

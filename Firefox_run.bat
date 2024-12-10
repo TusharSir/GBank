@@ -1,0 +1,1 @@
+pytest -v -n=5 --html=HTMLReport/myreport_firefox.html --browser firefox --alluredir="AllureReports" -p no:warnings
