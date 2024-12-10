@@ -1,4 +1,0 @@
-row count-->7
-Testcase pass count-->5
-Testcase fail count-->1
-['pass', 'pass', 'pass', 'fail', 'pass', 'pass']

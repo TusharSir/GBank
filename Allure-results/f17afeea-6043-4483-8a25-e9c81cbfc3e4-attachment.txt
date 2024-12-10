@@ -1,2 +1,0 @@
-[32mINFO    [0m Test_UserProfile:test_UserProfile.py:51 Testcase test_Signup_002 is started
-[32mINFO    [0m Test_UserProfile:test_UserProfile.py:52 Opening browser
